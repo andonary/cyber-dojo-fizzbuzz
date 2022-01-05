@@ -1,0 +1,27 @@
+{
+  "name": "cyber-dojo-fizzbuzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andonary/cyber-dojo-fizzbuzz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andonary/cyber-dojo-fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/andonary/cyber-dojo-fizzbuzz#readme",
+  "dependencies": {
+    "@babel/preset-env": "^7.16.7",
+    "@babel/preset-typescript": "^7.16.7",
+    "@types/jest": "^27.4.0",
+    "jest": "^27.4.6"
+  }
+}
